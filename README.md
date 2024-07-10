@@ -1,2 +1,2 @@
 # random-quote-generator
-Side project for fun
+Frontend: Muhammad Backend: Furkan
